@@ -6,9 +6,8 @@
                 .::      .::.::   .::.:         .::    .::   .::  .::  .::.:        
                 .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
                           Copyright (c) 2016-2018 liberxue
-                                 http://www.liberxue.com
                            
-#### liberxue.github.io preview (demo) (http://www.liberxue.com)
+#### liberxue.github.io preview (demo) 
 
 #### `Jekyll Themes`
 ----------
